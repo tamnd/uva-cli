@@ -1,0 +1,10 @@
+title       = "uva"
+baseURL     = "https://uva-cli.tamnd.com/"
+description = "A command line for uva."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/uva-cli"
